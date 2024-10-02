@@ -5,6 +5,11 @@ Esta carpeta contiene el producto final de la aplicación
 // npm install
 
 # Subir a Git
+
+git config -- global user.name "DiegoDomingue-Z"
+git config -- global user.email "runtime576@gmail.com"
+
+
 * Inicializa el repositorio de git
 git init
 
@@ -19,4 +24,4 @@ git commit -m "Primer commit"
 git checkout -- .
 
 
-//nota los modulos de node nunca se le hace un backup 
+//nota los modulos de node nunca se le hace un backup
